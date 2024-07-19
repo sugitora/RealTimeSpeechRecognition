@@ -1,0 +1,5 @@
+streamlit
+pyaudio
+wave
+openai
+asyncio
